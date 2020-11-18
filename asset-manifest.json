@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/axiosApp/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/axiosApp/static/js/main.e6254ad2.chunk.js",
+    "main.js.map": "/axiosApp/static/js/main.e6254ad2.chunk.js.map",
+    "runtime-main.js": "/axiosApp/static/js/runtime-main.ac65fb55.js",
+    "runtime-main.js.map": "/axiosApp/static/js/runtime-main.ac65fb55.js.map",
+    "static/js/2.7132962f.chunk.js": "/axiosApp/static/js/2.7132962f.chunk.js",
+    "static/js/2.7132962f.chunk.js.map": "/axiosApp/static/js/2.7132962f.chunk.js.map",
+    "static/js/3.b2385bdb.chunk.js": "/axiosApp/static/js/3.b2385bdb.chunk.js",
+    "static/js/3.b2385bdb.chunk.js.map": "/axiosApp/static/js/3.b2385bdb.chunk.js.map",
+    "index.html": "/axiosApp/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/axiosApp/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.7132962f.chunk.js.LICENSE.txt": "/axiosApp/static/js/2.7132962f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ac65fb55.js",
+    "static/js/2.7132962f.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.e6254ad2.chunk.js"
+  ]
+}
